@@ -27,7 +27,7 @@ nav {
 
 .restaurant-list {
   padding-top: 50px;
-  background-color: #f4c762;
+  background-color: #DADADA;
 }
 
 /* My styles */
@@ -41,7 +41,7 @@ within the .restaurant-list section. */
 /* Change the background-color for divs with
 a class of location when hovered upon. */
 .location:hover {
-  background-color: #af2a1c;
+  background-color: #AAAAAA;
   cursor: pointer;
 }
 
